@@ -19,7 +19,7 @@ export default function LanguageSelect() {
   const { pathname, asPath, query, locale } = router;
   // change just the locale and maintain all other route information including href's query
 
-  const [selectedLocale, setSelectedLocale] = React.useState<any>("en");
+  const [selectedLocale, setSelectedLocale] = React.useState<any>(locale);
   return (
     <>
       <Box>
