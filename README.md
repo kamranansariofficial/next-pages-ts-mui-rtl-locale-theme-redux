@@ -11,7 +11,7 @@ This is a Next.js application that demonstrates the following features:
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/your/repo.git
+   git clone https://github.com/kamranansariofficial/next-pages-ts-mui-rtl-locale-theme-redux.git
    ```
 
 This Next.js application showcases dark/light mode theming and a language switcher feature. It utilizes the following libraries:
