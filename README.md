@@ -23,7 +23,7 @@ This Next.js application showcases dark/light mode theming and a language switch
 2. Navigate to the project directory:
 
    ```bash
-   cd your-project-directory
+   cd next-pages-ts-mui-rtl-locale-theme-redux
    ```
 
 3. Install dependencies:
